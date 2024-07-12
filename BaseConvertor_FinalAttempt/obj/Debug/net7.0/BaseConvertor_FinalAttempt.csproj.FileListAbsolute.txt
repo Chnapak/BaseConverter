@@ -1,0 +1,14 @@
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\bin\Debug\net7.0\BaseConvertor_FinalAttempt.exe
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\bin\Debug\net7.0\BaseConvertor_FinalAttempt.deps.json
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\bin\Debug\net7.0\BaseConvertor_FinalAttempt.runtimeconfig.json
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\bin\Debug\net7.0\BaseConvertor_FinalAttempt.dll
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\bin\Debug\net7.0\BaseConvertor_FinalAttempt.pdb
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\BaseConvertor_FinalAttempt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\BaseConvertor_FinalAttempt.AssemblyInfoInputs.cache
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\BaseConvertor_FinalAttempt.AssemblyInfo.cs
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\BaseConvertor_FinalAttempt.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\BaseConvertor_FinalAttempt.dll
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\refint\BaseConvertor_FinalAttempt.dll
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\BaseConvertor_FinalAttempt.pdb
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\BaseConvertor_FinalAttempt.genruntimeconfig.cache
+C:\Users\matej\source\repos\BaseConvertor_FinalAttempt\BaseConvertor_FinalAttempt\obj\Debug\net7.0\ref\BaseConvertor_FinalAttempt.dll
